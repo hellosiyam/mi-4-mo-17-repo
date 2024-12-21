@@ -8,7 +8,15 @@
 
 var applePrice = 240;
 var mangoPrice = 160;
-console.log(applePrice>mangoPrice);
+// console.log(applePrice>mangoPrice);
+
+
+// console.log(10 == "10");
+// console.log(10 === "10");
+// console.log(10 != "10");
+console.log(10 !== "10");
+
+
 
 
 

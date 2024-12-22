@@ -95,7 +95,7 @@
 // }
 
 // Task-6
-let age = 60;
+let age = 24;
 let isStudent = true;
 let ticketPrice = 800;
 if (age<=10) {
